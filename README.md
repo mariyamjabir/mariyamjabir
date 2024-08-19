@@ -1,6 +1,6 @@
-Hi there 👋 , I'm **Mariyam**, a dedicated Machine Learning & AI Engineer with a strong background in Human Resources. After 5 years in HR, I made a successful transition to the tech field, combining my analytical skills with a passion for AI and data science.
+Hi there 👋 , I'm **Mariyam Jabir**, a dedicated Machine Learning & AI Engineer with a strong background in Human Resources. After 5 years in HR, I made a successful transition to the tech field, combining my analytical skills with a passion for AI and data science.
 
-### 📚 Education & Skills**
+### 📚 Education & Skills
 I hold an MBA in Information Systems Management and a BSc in Computer Science. I’m constantly expanding my skill set through continuous learning. 
 My expertise includes:
  - Machine Learning and Deep Learning
