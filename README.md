@@ -20,6 +20,7 @@ I'm passionate about building AI-driven solutions that make a real impact. Wheth
 
 ### 🌐 Let's Connect
 [Check out my portfolio](https://mariyamjabir.my.canva.site/portfolio) for more insights into my work!
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/mariyamjabir/).
 
 Let's connect and collaborate on exciting projects!
