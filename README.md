@@ -12,7 +12,7 @@ Here are some highlights of what I’ve worked on:
  - [Virtual Painter](https://github.com/mariyamjabir/virtual_painter): An interactive application developed with OpenCV, where users can draw on a canvas using hand gestures. 
  - [Drug Review Analysis](https://github.com/mariyamjabir/Drug-Review-Analysis-Understanding-User-Sentiment): An analysis project to understand user sentiment in drug reviews, employing NLP techniques and machine learning models. 
  - [Car Price Prediction](https://github.com/mariyamjabir/Car_Price_Prediction): A machine learning model to predict car prices, leveraging data cleaning, exploration, and Random Forest Regressor.
- - [HR Analytics – Employee Attrition & Performance](https://github.com/mariyamjabir/HR_Analytics): A machine learning model to predict employee attrition, optimized using SMOTE to address class imbalance.
+ - [HR Analytics – Employee Attrition & Performance](https://github.com/mariyamjabir/HR_Analytics): A machine learning model to predict employee attrition and performance trends, enabling proactive retention strategies.
 
 ### 🌟 What I’m Passionate About
 I'm passionate about building AI-driven solutions that make a real impact. Whether it's through predictive modeling, sentiment analysis, or real-time data processing, I'm always eager to tackle new challenges and create innovative solutions.
